@@ -19,7 +19,13 @@
   "homepage": "https://github.com/eerogers/justgo#readme",
   "dependencies": {
     "@google/maps": "^0.4.6",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
     "geolocation": "^0.2.0",
-    "google-maps-api": "^2.0.1"
+    "google-maps-api": "^2.0.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "path": "^0.12.7",
+    "sequelize": "^4.37.6"
   }
 }
